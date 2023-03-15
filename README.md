@@ -2,7 +2,7 @@
 <h3 align="center">Programmer full stacj 🧑‍💻, photographer 📷, designer 🖍️, traveler ✈️, dreamer 🤞. I like to learn absolutely everything!</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirabelak" alt="kirabelak" /></a> </p>
-- 🔭 I worked for the Solana #grizzlython [PaySol](https://paysol.kirabel.com/)
+<p align="center"> - 🔭 I worked for the Solana #grizzlython [PaySol](https://paysol.kirabel.com/)</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kirabelak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirabelak" height="30" width="40" /></a>
