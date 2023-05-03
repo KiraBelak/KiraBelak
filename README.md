@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaleb Esparza (KiraBelak)</h1>
 <h3 align="center">Programmer full stacj 🧑‍💻, photographer 📷, designer 🖍️, traveler ✈️, dreamer 🤞. I like to learn absolutely everything!</h3>
 
-<p align="center"> - 🔭 I worked for Project personal photographer [Kirabel Fotografia](https://fotografiachihuahua.kirabel.com/)</p>
+<p align="center"> - 🔭 I worked for Project personal photographer [Kirabel Fotografia](https://fotografia.kirabel.com/)</p>
+<p align="center"> - 🔭 I worked for Innovatec Tecnm 2023 [Sanna-T](https://sanna-t.kirabel.com/)</p>
+
 <p align="center"> - 🔭 I worked for Talent Land Hackahaton 2023 [Helthy Hive and Salud Digna](https://helthyhive.kirabel.com/)</p>
 <p align="center"> - 🔭 I worked for the Solana #grizzlython [PaySol](https://paysol.kirabel.com/)</p>
 <h3 align="center">Connect with me:</h3>
