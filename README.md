@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb Esparza (KiraBelak)</h1>
-<h3 align="center">Programmer full stacj 🧑‍💻, photographer 📷, designer 🖍️, traveler ✈️, dreamer 🤞. I like to learn absolutely everything!</h3>
+<h3 align="center">Programmer full stack 🧑‍💻, photographer 📷, designer 🖍️, traveler ✈️, dreamer 🤞. I like to learn absolutely everything!</h3>
 
 <p align="center"> - 🔭 I worked for Project personal photographer [Kirabel Fotografia](https://fotografia.kirabel.com/)</p>
 <p align="center"> - 🔭 I worked for Innovatec Tecnm 2023 [Sanna-T](https://sanna-t.kirabel.com/)</p>
