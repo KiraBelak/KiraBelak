@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kaleb+Esparza+(KiraBelak);Welcome+to+my+GitHub+Profile!&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Kaleb+Esparza+(KiraBelak);Welcome+to+my+GitHub+Profile!&center=true&size=25&width=500&height=60">
 </div>
 
 <h3 align="center">Full Stack Developer | Photographer | Designer | Explorer | Lifelong Learner</h3>
