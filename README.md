@@ -68,9 +68,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirabelak&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirabelak&theme=radical" alt="GitHub Streak" />
